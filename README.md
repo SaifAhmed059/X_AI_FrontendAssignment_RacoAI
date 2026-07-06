@@ -4,9 +4,9 @@ A single-page, high-fidelity interactive product experience built for the
 RacoAI frontend challenge. It visually narrates how **Xai** turns raw data
 into structured intelligence, actionable insight, and AI automations.
 
-**Live demo:** _add your Vercel/Netlify URL here after deploying_
-**Figma:** _add your public Figma link here_
-**Walkthrough video:** _add your Google Drive / YouTube link here_
+**Live demo:** https://x-ai-frontend-assignment-raco-ai.vercel.app
+**Figma:** https://www.figma.com/make/8brl2DEfqHHMtgwefavy6Q/Create-Figma-Design?fullscreen=1&t=QYI5X8RDMakxq7Fx-1&code-node-id=0-9
+**Walkthrough video:** https://drive.google.com/file/d/1OJblr2YrfYJbqp4xLtdHHW2WulfCdP8J/view?usp=sharing
 
 ---
 
@@ -76,8 +76,7 @@ as-is:
 
 - **Vercel:** import the GitHub repo → framework preset "Next.js" is
   auto-detected → deploy.
-- **Netlify:** import the repo → build command `npm run build`, publish
-  directory handled automatically by the Next.js runtime plugin.
+
 
 ## 5. Key animation & interaction decisions
 
